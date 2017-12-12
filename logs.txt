@@ -1,0 +1,51 @@
+
+[action-and-interview-list] https://www.lds.org/mls/mbr/services/report/action-interview-list/unit/{unit}/?lang=eng
+[action-and-interview-list-full] https://www.lds.org/mls/mbr/services/report/action-interview-list/full/unit/{unit}/?lang=eng
+[android-faq-url          ] http://www.lds.org/callings/melchizedek-priesthood/records-and-technology-support/lds-tools-faq?lang=eng
+[android-latest-location  ] https://play.google.com/store/apps/details?id=org.lds.ldstools
+[android-release-notes-url] https://www.lds.org/callings/melchizedek-priesthood/records-and-technology-support/lds-tools-release-notifications?lang=eng#android
+[auth-url                 ] https://signin.lds.org/login.html
+[birthday-list            ] https://www.lds.org/mls/mbr/services/report/birthday-list/unit/{unit}/?month=1&months=12&organization=selectAll&lang=eng
+[cal-event                ] https://wsmobile1.lds.org/CP/CalendarProxyService/v1/Event/{}
+[cal-events               ] https://wsmobile1.lds.org/CP/CalendarProxyService/v1/Events/{}-{}
+[cal-subscribed           ] https://wsmobile1.lds.org/CP/CalendarProxyService/v1/Subscribed
+[cal-version              ] https://wsmobile1.lds.org/CP/CalendarProxyService/v1/Locations?blah=adm/appVersion
+[cal2x-colors             ] https://www.lds.org/mobilecalendar/services/lucrs/cal/allColors
+[cal2x-event              ] https://www.lds.org/mobilecalendar/services/lucrs/evt/{}
+[cal2x-events             ] https://www.lds.org/mobilecalendar/services/lucrs/evt/calendar/{}-{}
+[cal2x-init               ] https://www.lds.org/mobilecalendar/services/lucrs/mem/currentUserOptions/{}
+[cal2x-locations          ] https://www.lds.org/mobilecalendar/services/lucrs/loc/locations
+[cal2x-set-calendar-color ] https://www.lds.org/mobilecalendar/services/lucrs/cal/{}/color/{}/
+[cal2x-status             ] https://www.lds.org/mobilecalendar/heartbeat
+[cal2x-subscribed         ] https://www.lds.org/mobilecalendar/services/lucrs/cal/subscribed
+[callings-with-dates      ] https://www.lds.org/mls/mbr/services/report/members-with-callings?unitNumber={unit}&lang=eng
+[current-user-detail      ] https://www.lds.org/mobiledirectory/services/v2/ldstools/current-user-detail
+[current-user-id          ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/current-user-id
+[current-user-unit        ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/current-user-unitNo
+[current-user-units       ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/unit/mobile/current-user-units
+[current_user_id          ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/current-user-id
+[directory-status         ] https://www.lds.org/mobiledirectory/heartbeat
+[feedback                 ] https://lds.qualtrics.com/SE/?SID=SV_esOCWpQ67JUc6na
+[ios-eng-support-rss-url  ] http://www.ldsmobile.org/lt-ios-help/?feed=rss2
+[ios-faq-url              ] http://www.lds.org/callings/melchizedek-priesthood/records-and-technology-support/lds-tools-faq?lang=eng
+[ios-release-notes-url    ] https://www.lds.org/callings/melchizedek-priesthood/records-and-technology-support/lds-tools-release-notifications?lang=eng#ios
+[leader-access            ] http://tech.lds.org/mobile/ldstools/leader-access-1.0.json
+[member-assignments       ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/member-assignments
+[members-moved-in         ] https://www.lds.org/mls/mbr/services/report/members-moved-in/unit/{unit}/{}?lang=eng
+[membership-record        ] https://www.lds.org/mls/mbr/services/report/membership-record/{member}?lang=eng
+[membership-records       ] https://www.lds.org/mls/mbr/services/report/membership-records?unitNumber={unit}&lang=eng
+[organization-list-url    ] http://tech.lds.org/mobile/ldstools/lists.json
+[photo-base-url           ] https://www.lds.org
+[photo-url                ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/photo/url/{member}/{}
+[privacy-url              ] http://www.lds.org/legal/privacy?lang=eng
+[signout-url              ] http://www.lds.org/signinout/?lang=eng&signmeout
+[stake-leadership         ] https://www.lds.org/mobiledirectory/services/ludrs/unit/stake-leadership-positions
+[stake-units              ] https://www.lds.org/mobiledirectory/services/ludrs/unit/current-user-stake-wards
+[temple-recommend-status  ] https://www.lds.org/mls/mbr/services/recommend/endowed-members?unitNumber={unit}&lang=eng
+[terms-url                ] http://www.lds.org/legal/terms?lang=eng
+[unit-leadership          ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/unit/unit-leadershiplist/{unit}
+[unit-leadership-new      ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/unit/unit-leadershiplist/{unit}
+[unit-members-and-callings] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/member-detaillist-with-callings/{unit}
+[unit-members-and-callings-v2] https://www.lds.org/mobiledirectory/services/v2/ldstools/member-detaillist-with-callings/{unit}
+[unit-membership          ] https://www.lds.org/mobiledirectory/services/ludrs/1.1/mem/mobile/member-detaillist/{unit}
+[unit-statistics          ] https://www.lds.org/mls/mbr/services/report/unit-statistics?unitNumber={unit}&lang=eng
